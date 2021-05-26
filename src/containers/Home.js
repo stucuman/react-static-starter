@@ -4,8 +4,7 @@ import logoImg from '../logo.png'
 
 export default () => (
   <div>
-    <h1 style={{ textAlign: 'center' }}>Welcome to</h1>
-    <img src={logoImg} alt="" />
+  
 
 Las <a href="http://lacritica.com.ar">noticias de Tucuman</a>, estan informadas dia a dia por diversos medios online, algunos tradicionales como La Gaceta y <a href="http://lacritica.com.ar">Contexto Tucuman</a>. Otros mas nuevos como ser <a href="http://lacritica.com.ar">Los primeros</a> y el tucumano, que ya gozan de una muy buena cantidad de visitas.
 
